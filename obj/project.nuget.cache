@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3wgxaXCa1LI=",
+  "dgSpecHash": "KhFQy5Xx9hU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wynan\\OneDrive\\Desktop\\C# stuff\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\wynan\\OneDrive\\Desktop\\C# stuff\\ConsoleOCR\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wynan\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\wynan\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"

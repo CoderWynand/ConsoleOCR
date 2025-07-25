@@ -45,7 +45,7 @@ class Program
 
         while (true)
         {
-            if (userChoice == "eng" || userChoice == "chi_sim" || userChoice == "chi.tra" || userChoice == "hin" || userChoice == "spa" || userChoice == "fra")
+            if (userChoice == "eng" || userChoice == "chi_sim" || userChoice == "chi_tra" || userChoice == "hin" || userChoice == "spa" || userChoice == "fra")
             {
                 return userChoice;
             }
@@ -55,7 +55,7 @@ class Program
 
                 userChoice = Console.ReadLine();
 
-                if (string.Equals("userChoice", "quit", StringComparison.OrdinalIgnoreCase))
+                if (string.Equals(userChoice, "quit", StringComparison.OrdinalIgnoreCase))
                 {
                     break;
                 }
