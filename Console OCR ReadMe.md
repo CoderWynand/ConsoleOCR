@@ -33,9 +33,17 @@ This class contains the code that creates the engine and processes the text, the
 
 ### Running the program
 
-Open a terminal in the Project directory and use the following: dotnet run
+Please ensure that the following dependencies are present on your system:
 
-### 
+
+
+1. .NET DSK 6.0 or higher
+2. Tesseract OCR
+3. Appropriate tessdata folder with trained files
+
+
+
+Then clone/download the project, navigate to project directory, then build and run using "dotnet build" and "dotnet run" respectively.
 
 ### Known issues/Future improvements:
 
